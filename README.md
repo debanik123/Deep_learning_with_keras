@@ -5,3 +5,6 @@ https://towardsdatascience.com/detection-of-covid-19-presence-from-chest-x-ray-s
 
 
 https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse
+
+
+https://github.com/meizhoubao/pyimagesearch
